@@ -38,3 +38,39 @@ if(age >= 21){
 }else{
     console. log("You are NOT an adult")
 }
+
+function ageCalulator(){
+    let age = prompt("21");
+
+    if(age<13){
+        console. log("you are a child");
+    }else if(age<21){
+        console. log
+
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    function traffic(){
+        let light =prompt("RED");
+
+        if(light == "Green"){
+            console. log("Go!");
+        }else if(light == "Red"){
+            console.log("STOP!")
+        }else{
+
+        }
+    }
